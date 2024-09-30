@@ -3,7 +3,7 @@
 <li> Computer Science & Engineering @ Korea. Univ (2019.03 ~ )</li>
 <li> Cadet @ 42 Seoul (2021.11 ~ 2024.03)</li>
 <li> Informatique @ INSA Lyon (2023.02 ~ 2023.06)</li>
-<li> Backend Developer Intern @ MIRIDIH (2024.03 ~ )</li>
+<li> Backend Developer Intern @ MIRIDIH (2024.03 ~ 2024.06)</li>
 </ul>
 
 # 👀
